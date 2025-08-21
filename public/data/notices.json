@@ -1,0 +1,128 @@
+[
+  {
+    "id": "n001",
+    "raw_text": "Placement drive for TechCorp Solutions scheduled for March 15th. All eligible B.Tech CSE students must register by March 10th.",
+    "category": "placement",
+    "matched_job": {
+      "id": "2f3g4h5i-92j7-48k3-l1m2-n3o4p5q6r7s8",
+      "company": "TechCorp Solutions",
+      "job_profile": "Full Stack Developer"
+    },
+    "extracted": {
+      "deadline": "March 10th",
+      "event_date": "March 15th",
+      "target_courses": ["B.Tech CSE"]
+    },
+    "formatted_message": "Placement Alert - TechCorp Solutions placement drive on March 15th. Registration deadline: March 10th for B.Tech CSE students."
+  },
+  {
+    "id": "n002", 
+    "raw_text": "Congratulations to all students who cleared the first round of Axeno Software Intern interviews. Second round scheduled for tomorrow.",
+    "category": "shortlisting",
+    "matched_job": {
+      "id": "7d7dd5e9-51e6-46b6-a0e2-c8cabf06acdc",
+      "company": "Axeno",
+      "job_profile": "Software Intern"
+    },
+    "extracted": {
+      "round": "Second round",
+      "status": "First round cleared"
+    },
+    "formatted_message": "Shortlisting Update - Axeno Software Intern - First round cleared! Second round interviews tomorrow.",
+    "shortlisted_students": [
+      {
+        "name": "Rahul Sharma",
+        "enrollment_number": "20CSE001"
+      },
+      {
+        "name": "Priya Singh", 
+        "enrollment_number": "20CSE042"
+      },
+      {
+        "name": "Amit Kumar",
+        "enrollment_number": "20IT015"
+      },
+      {
+        "name": "Sneha Patel",
+        "enrollment_number": "20CSE087"
+      },
+      {
+        "name": "Vikas Gupta",
+        "enrollment_number": "20IT032"
+      },
+      {
+        "name": "Anita Desai",
+        "enrollment_number": "20CSE056"
+      },
+      {
+        "name": "Ravi Kumar",
+        "enrollment_number": "20IT021"
+      },
+      {
+        "name": "Kavya Reddy",
+        "enrollment_number": "20CSE073"
+      }
+    ]
+  },
+  {
+    "id": "n003",
+    "raw_text": "Important: All students appearing for Analytics Pro Data Analyst position must bring original mark sheets and updated resume.",
+    "category": "announcement",
+    "matched_job": {
+      "id": "9a8b7c6d-54e3-21f0-g9h8-i7j6k5l4m3n2",
+      "company": "Analytics Pro", 
+      "job_profile": "Data Analyst"
+    },
+    "extracted": {
+      "requirements": ["original mark sheets", "updated resume"]
+    },
+    "formatted_message": "Important Notice - Analytics Pro Data Analyst interviews - Bring original mark sheets & updated resume."
+  },
+  {
+    "id": "n004",
+    "raw_text": "Pre-placement talk by Microsoft scheduled for March 20th at 2 PM in Auditorium A. All final year students invited.",
+    "category": "announcement",
+    "matched_job": null,
+    "extracted": {
+      "company": "Microsoft",
+      "event_type": "Pre-placement talk",
+      "date": "March 20th",
+      "time": "2 PM",
+      "venue": "Auditorium A"
+    },
+    "formatted_message": "Pre-Placement Talk - Microsoft - March 20th, 2 PM at Auditorium A. All final year students invited."
+  },
+  {
+    "id": "n005",
+    "raw_text": "Final shortlist for TechCorp Solutions Full Stack Developer position announced. Selected candidates for final interview round.",
+    "category": "shortlisting",
+    "matched_job": {
+      "id": "2f3g4h5i-92j7-48k3-l1m2-n3o4p5q6r7s8",
+      "company": "TechCorp Solutions",
+      "job_profile": "Full Stack Developer"
+    },
+    "extracted": {
+      "round": "Final interview",
+      "status": "Final shortlist announced"
+    },
+    "formatted_message": "Final Shortlisting - TechCorp Solutions Full Stack Developer - Final interview candidates selected.",
+    "shortlisted_students": [
+      {
+        "name": "Rahul Sharma",
+        "enrollment_number": "20CSE001"
+      },
+      {
+        "name": "Sneha Patel",
+        "enrollment_number": "20CSE087"
+      },
+      {
+        "name": "Arjun Mehta",
+        "enrollment_number": "20CSE034"
+      },
+      {
+        "name": "Divya Joshi",
+        "enrollment_number": "20IT018"
+      }
+    ]
+  }
+]

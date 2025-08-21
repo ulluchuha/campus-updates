@@ -1,0 +1,149 @@
+[
+  {
+    "id": "7d7dd5e9-51e6-46b6-a0e2-c8cabf06acdc",
+    "job_profile": "Software Intern",
+    "company": "Axeno",
+    "placement_category_code": 3,
+    "placement_category": "Offer is more than 4.6 lacs",
+    "content": "",
+    "createdAt": 1755688649000,
+    "deadline": 1755751008000,
+    "eligibility_marks": [
+      {
+        "level": "CLASS_XII",
+        "criteria": 60.0
+      },
+      {
+        "level": "CLASS_X",
+        "criteria": 60.0
+      },
+      {
+        "level": "UG",
+        "criteria": 7.0
+      }
+    ],
+    "eligibility_courses": [
+      "B.Tech - CSE",
+      "M.Tech. - CSE",
+      "B.Tech - IT",
+      "M.Tech (Integrated) - CSE"
+    ],
+    "allowed_genders": [
+      "Female",
+      "Male",
+      "Other"
+    ],
+    "job_description": "<p>As a Software Intern (Backend)</p><p>You should be having interest/knowledge on Back-end technologies<br>like Java, Java frameworks, Golang, Node.js. (you will be further<br>trained on these technologies).<br> You will be trained on:<br> Database  NOSQL, MongoDB, SQL (MS SQL, Oracle, MySQL)<br> Training on some of the recent and trending technologies like AEM,<br>ALM and Workfront.<br> Exposure with web services (RESTful) and web technologies in general.</p><p>&nbsp;</p><p>AS A SOFTWARE INTERN (Frontend)<br> You should be having interest / knowledge front-end technologies like<br>JavaScript, HTML5, CSS, jQuery, ReactJS, MERN, Flutter, NextJS.<br> You will be trained on:<br> Databases  MongoDB, MySQL, Oracle<br> Training on some of the recent and trending technologies like AEM, ALM<br>and Workfront.<br> Exposure with web services (RESTful) and web technologies in general</p>",
+    "location": "Noida",
+    "package": 600000,
+    "package_info": "",
+    "required_skills": [],
+    "hiring_flow": [
+      "Data Screening",
+      "Pre-placement Talk",
+      "Online Test",
+      "Group Discussion",
+      "Technical interview 1",
+      "HR interview",
+      "Culture Fit & Offer"
+    ],
+    "placement_type": null
+  },
+  {
+    "id": "2f3g4h5i-92j7-48k3-l1m2-n3o4p5q6r7s8",
+    "job_profile": "Full Stack Developer",
+    "company": "TechCorp Solutions",
+    "placement_category_code": 4,
+    "placement_category": "Offer is more than 8 lacs",
+    "content": "",
+    "createdAt": 1755688649000,
+    "deadline": 1755837808000,
+    "eligibility_marks": [
+      {
+        "level": "CLASS_XII",
+        "criteria": 75.0
+      },
+      {
+        "level": "CLASS_X",
+        "criteria": 70.0
+      },
+      {
+        "level": "UG",
+        "criteria": 7.5
+      }
+    ],
+    "eligibility_courses": [
+      "B.Tech - CSE",
+      "B.Tech - IT",
+      "B.Tech - ECE",
+      "M.Tech. - CSE"
+    ],
+    "allowed_genders": [
+      "Female",
+      "Male",
+      "Other"
+    ],
+    "job_description": "<p>We are looking for a Full Stack Developer to join our dynamic team.</p><p>Required Skills: React.js, Node.js, Express.js, MongoDB, PostgreSQL</p><p>You will work on cutting-edge projects involving modern web technologies.</p>",
+    "location": "Bangalore",
+    "package": 850000,
+    "package_info": "CTC includes base salary + performance bonus",
+    "required_skills": ["React.js", "Node.js", "Express.js", "MongoDB"],
+    "hiring_flow": [
+      "Application Review",
+      "Online Assessment",
+      "Technical Interview Round 1",
+      "Technical Interview Round 2",
+      "HR Interview",
+      "Final Offer"
+    ],
+    "placement_type": "Full Time"
+  },
+  {
+    "id": "9a8b7c6d-54e3-21f0-g9h8-i7j6k5l4m3n2",
+    "job_profile": "Data Analyst",
+    "company": "Analytics Pro",
+    "placement_category_code": 2,
+    "placement_category": "Offer is between 3-4.6 lacs",
+    "content": "",
+    "createdAt": 1755602249000,
+    "deadline": 1755751008000,
+    "eligibility_marks": [
+      {
+        "level": "CLASS_XII",
+        "criteria": 65.0
+      },
+      {
+        "level": "CLASS_X",
+        "criteria": 65.0
+      },
+      {
+        "level": "UG",
+        "criteria": 6.5
+      }
+    ],
+    "eligibility_courses": [
+      "B.Tech - CSE",
+      "B.Tech - IT",
+      "B.Sc - Statistics",
+      "B.Sc - Mathematics"
+    ],
+    "allowed_genders": [
+      "Female",
+      "Male",
+      "Other"
+    ],
+    "job_description": "<p>Join our data analytics team to derive insights from complex datasets.</p><p>Skills: Python, SQL, Excel, Tableau, Power BI</p><p>Experience with statistical analysis and data visualization tools preferred.</p>",
+    "location": "Delhi",
+    "package": 420000,
+    "package_info": "Fixed CTC with performance-based increments",
+    "required_skills": ["Python", "SQL", "Excel", "Tableau"],
+    "hiring_flow": [
+      "Resume Screening",
+      "Aptitude Test",
+      "Technical Interview",
+      "Case Study Presentation",
+      "HR Interview"
+    ],
+    "placement_type": "Full Time"
+  }
+]
